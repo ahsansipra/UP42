@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14072" started-at="2019-12-21T16:53:44Z" finished-at="2019-12-21T16:53:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14072" started-at="2019-12-21T16:53:44Z" finished-at="2019-12-21T16:53:58Z">
+      <class name="Tests.Login_Test">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Tests.Login_Test@2d6eabae]" name="beforeSuite" is-config="true" duration-ms="9293" started-at="2019-12-21T16:53:34Z" finished-at="2019-12-21T16:53:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="login_test()[pri:0, instance:Tests.Login_Test@2d6eabae]" name="login_test" duration-ms="2744" started-at="2019-12-21T16:53:44Z" finished-at="2019-12-21T16:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method status="PASS" signature="project_Creation_Test()[pri:0, instance:Tests.Login_Test@2d6eabae]" name="project_Creation_Test" duration-ms="2427" started-at="2019-12-21T16:53:46Z" finished-at="2019-12-21T16:53:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- project_Creation_Test -->
+        <test-method status="PASS" signature="workFlows_Definition()[pri:0, instance:Tests.Login_Test@2d6eabae]" name="workFlows_Definition" duration-ms="8857" started-at="2019-12-21T16:53:49Z" finished-at="2019-12-21T16:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- workFlows_Definition -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Tests.Login_Test@2d6eabae]" name="afterSuite" is-config="true" duration-ms="1" started-at="2019-12-21T16:53:58Z" finished-at="2019-12-21T16:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Tests.Login_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
