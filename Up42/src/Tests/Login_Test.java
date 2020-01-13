@@ -29,8 +29,8 @@ public class Login_Test {
 	  
 	  driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 	  login.signIn_Click();
-	  login.setUserName("ahsan_sipra@live.com");
-	  login.setPassword("Netsolpk1!");
+	  login.setUserName("abc");
+	  login.setPassword("abc");
 	  login.click_SignIn();
   }
   
